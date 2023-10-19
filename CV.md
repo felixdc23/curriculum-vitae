@@ -47,7 +47,7 @@ Academia de Artes Visuais Rio de Janeiro, RJ, Brasil
 ***
 
 ### PROJETOS
-**Análise de Negócios**\
+**Análise de Negócios** *(Set 2022 - Mar  2023)*\
 *Numpy, Pandas, Seaborn | Angular, Java Spring Boot*
 
 * Membro da equipe de consultoria empresarial para uma importadora, onde fui responsável por extrair informações dos cadastros de vendas, bem como criar uma interface para a equipe agregar novas funcionalidades aos dados.
