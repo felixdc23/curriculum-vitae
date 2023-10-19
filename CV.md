@@ -13,7 +13,7 @@ projetos pessoais e profissionais.
 ***
 
 ### EDUCAÇÃO
- **Universidade Federal Fluminense Niterói, RJ, Brasil** *(Jan 2019 – Dez 2021)*
+ **Universidade Federal Fluminense - Niterói, RJ, Brasil** *(Jan 2019 – Dez 2021)*
  
  *Graduação em Sistemas de Computação*
 ***
