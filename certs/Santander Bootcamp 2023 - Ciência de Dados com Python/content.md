@@ -37,16 +37,16 @@ Junte-se ao Santander Bootcamp 2023 e inicie sua jornada na trilha de Ciências 
   * [Trabalhando com Visuais no Power BI](https://www.dio.me/certificate/AE97F30E/share)
   * [Fundamentos de BI: KPIs e Métricas](https://www.dio.me/certificate/E740266C/share)
   * [Criando Dashboard Interativos com Power BI](https://www.dio.me/certificate/0F64DDEF/share)
-  * Criando um Relatório de Vendas Elegante com Power BI
-  * Coleta e Extração de Dados com Power BI
-  * Limpeza e Transformação de Dados com Power BI
-  * Processando e Transformando Dados com Power BI
+  * [Criando um Relatório de Vendas Elegante com Power BI](https://www.dio.me/certificate/0F64DDEF/share)
+  * [Coleta e Extração de Dados com Power BI](https://www.dio.me/certificate/E106B94F/share)
+  * [Limpeza e Transformação de Dados com Power BI](https://www.dio.me/certificate/3A311878/share)
+  * [Processando e Transformando Dados com Power BI](https://www.dio.me/certificate/BCD017DC/share)
 * Fundamentos e Técnicas de Machine Learning
-  * Introdução ao Machine Learning
-  * Métodos de Machine Learning Bioinspirados
-  * Redes Neurais Artificiais
-  * Algoritmos Genéticos
-  * Algoritmos de SVM (Support Vector Machine)
-  * Classificação de Problemas: Explorando Datasets
-  * Linguagens de Programação para Machine Learning
-  * Python para Machine Learning na Prática
+  * [Introdução ao Machine Learning](https://www.dio.me/certificate/1085720F/share)
+  * [Métodos de Machine Learning Bioinspirados](https://www.dio.me/certificate/937EE57F/share)
+  * [Redes Neurais Artificiais](https://www.dio.me/certificate/D5C96DEB/share)
+  * [Algoritmos Genéticos](https://www.dio.me/certificate/51C09C5E/share)
+  * [Algoritmos de SVM (Support Vector Machine)](https://www.dio.me/certificate/A3050B59/share)
+  * [Classificação de Problemas: Explorando Datasets](https://www.dio.me/certificate/B26D98DA/share)
+  * [Linguagens de Programação para Machine Learning](https://www.dio.me/certificate/B813911C/share)
+  * [Python para Machine Learning na Prática](https://www.dio.me/certificate/530C3AE0/share)
