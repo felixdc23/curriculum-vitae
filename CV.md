@@ -56,7 +56,7 @@ Academia de Artes Visuais Rio de Janeiro, RJ, Brasil
 
 ***
 
-### CURSOS E CERTIFICADOS
+### [CURSOS E CERTIFICADOS](certs/README.md)
 
 * [Santander Bootcamp 2023 - Ciência de Dados com Python](certs/Santander%20Bootcamp%202023%20-%20Ciência%20de%20Dados%20com%20Python/content.md) *(out/2023)*
 * [IoT Fundamentals: Big Data & Analytics](certs/IoT%20Fundamentals%20Big%20Data%20%26%20Analytics/content.md) *(nov/2022)*
