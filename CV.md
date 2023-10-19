@@ -7,14 +7,13 @@
 
 ## **DEVELOPER | DATA ENGINEER**
 Sou desenvolvedor de software em diversas linguagens e frameworks, destacando Java, Python e .NET nos últimos 3 anos.
-Com alta capacidade analítica e inclinação acadêmica, venho trilhando o caminho para área de dados, me familiarizando com as áreas de analytics, engeneering e data science através de cursos,
-projetos pessoais e profissionais.
+Com alta capacidade analítica e inclinação acadêmica, venho trilhando o caminho para área de dados, me familiarizando com analytics, engeneering e data science através de cursos e
+projetos, tanto pessoais como profissionais.
 
 ***
 
 ### EDUCAÇÃO
- **Universidade Federal Fluminense - Niterói, RJ, Brasil** *(Jan 2019 – Dez 2021)*
- 
+ * **Universidade Federal Fluminense - Niterói, RJ, Brasil** *(Jan 2019 – Dez 2021)*\
  *Graduação em Sistemas de Computação*
 ***
 ### HABILIDADES
