@@ -7,7 +7,7 @@
 
 ## **DESENVOLVEDOR | ANALISTA DE DADOS**
 
-Sou um Desenvolvedor e Engenheiro de Dados com mais de 5 anos de experiência em Java, Python e .NET, especializado em transformar grandes volumes de dados em soluções eficazes e insights estratégicos. Atualmente, lidero projetos inovadores na Casa da Moeda do Brasil, aplicando metodologias ágeis para otimizar processos e reduzir custos operacionais. Sempre em busca de novas tecnologias, estou pronto para agregar valor e alcançar resultados inovadores.
+Sou um Desenvolvedor e Engenheiro de Dados com mais de 5 anos de experiência em Java, Python e .NET, especializado em transformar grandes volumes de dados em soluções eficazes e insights estratégicos. Atualmente, estou envolvido em projetos inovadores na Casa da Moeda do Brasil, aplicando metodologias ágeis para otimizar processos e reduzir custos operacionais. Sempre em busca de novas tecnologias, estou pronto para agregar valor e alcançar resultados inovadores.
 
 ---
 
