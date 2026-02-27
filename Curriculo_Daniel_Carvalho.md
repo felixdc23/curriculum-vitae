@@ -1,70 +1,113 @@
-# Daniel Felix de Carvalho
-
-### Localização: Rio de Janeiro, RJ, Brasil  
-#### [LinkedIn](https://www.linkedin.com/in/daniel-c-b577101a4/) | Email: [felixdc@gmail.com](mailto:felixdc@gmail.com) | Celular: +55 21 980937444
-
----
-
-## **DESENVOLVEDOR | ANALISTA DE DADOS**
-
-Sou um Desenvolvedor e Engenheiro de Dados com mais de 5 anos de experiência em Java, Python e .NET, especializado em transformar grandes volumes de dados em soluções eficazes e insights estratégicos. Atualmente, estou envolvido em projetos inovadores na Casa da Moeda do Brasil, aplicando metodologias ágeis para otimizar processos e reduzir custos operacionais. Sempre em busca de novas tecnologias, estou pronto para agregar valor e alcançar resultados inovadores.
+# **Daniel Felix de Carvalho**
+Rio de Janeiro, RJ – Brasil  
+LinkedIn | Email: felixdc@gmail.com | Cel.: +55 21 98093‑7444 | Whatsapp.: +55 21 96719-1211
 
 ---
 
-### PROJETOS
+# **👨‍💻 DESENVOLVEDOR | CIENTISTA DE DADOS**
 
-**Desenvolvimento de sistema integrado no concurso interno de inovação** *(em andamento)*  
-*Java, PostgreSQL, REST, Git, Docker, Kubernetes*  
-Projeto voltado à proposição e implementação de um sistema de integração entre setores da empresa, visando otimização de processos operacionais e melhoria da comunicação de dados interdepartamental.
+Desenvolvedor e Cientista de Dados com mais de 5 anos de experiência em Java, Python e .NET, especializado em automação, análise de dados e integração de sistemas. Atuo na Casa da Moeda do Brasil entregando soluções que reduzem retrabalho, aceleram processos e aumentam a confiabilidade operacional. Finalista do Concurso Interno de Inovação 2026, com foco em desenvolvimento de sistemas escaláveis para integração financeira e comercial.
 
-**Análise de Negócios** *(Set 2022 - Mar 2023)*  
-*Numpy, Pandas, Seaborn | Angular, Java Spring Boot*  
-Atuei como membro de equipe de consultoria para uma importadora, responsável pela extração, análise e visualização de dados de vendas. Desenvolvi uma interface web e API REST para manipulação dos dados, que serviram de base para reestruturação do setor comercial.
+Atualmente curso duas pós-graduações em Data Science e Inteligência Artificial / Machine Learning pela XP Educação. Profissional orientado a resultados, com forte visão de negócio e domínio de técnicas de análise, estatística e desenvolvimento backend.
 
 ---
 
-### EXPERIÊNCIA
+# **🏆 PROJETOS DE DESTAQUE**
 
-**Desenvolvedor / Analista de Dados | Técnico Operacional** *(Mar 2020 – Presente)*  
-Casa da Moeda do Brasil – Rio de Janeiro, RJ  
-- Utilização de ferramentas de análise de dados para criar relatórios e visualizações.  
-- Desenvolvimento de aplicações em Java e Python para identificação e análise de grandes volumes de dados de faturamento.  
-- Automatização de rotinas com Selenium, reduzindo tempos de execução de dias para horas.
+## **🏅 Finalista – Concurso Interno de Inovação (2026)**  
+**Casa da Moeda do Brasil**
 
-**Técnico Operacional** *(Jan 2011 – Mar 2020)*  
-Casa da Moeda do Brasil – Rio de Janeiro, RJ  
-- Crítica de cédulas.  
-- Cunhagem de moedas e medalhas comemorativas.  
-- Expedição de produtos.
+Desenvolvimento de um sistema de **integração e automação** para os controles financeiros e de vendas da área comercial, com arquitetura planejada para ser **escalável** para outros setores da empresa. O projeto visa:
 
-**Web Developer** *(Jun 2010 – Dez 2010)*  
-Academia de Artes Visuais – Rio de Janeiro, RJ  
-- Desenvolvimento Web com PHP e AS3.
+- eliminar inconsistências entre sistemas e reduzir retrabalho;  
+- consolidar informações diversas em um ambiente único;  
+- automatizar rotinas críticas de faturamento e conciliação;  
+- disponibilizar dados estratégicos em tempo real;  
+- criar uma base de integração corporativa replicável.
+
+**Tecnologias:** Java • Python • Docker • PostgreSQL • REST APIs • Git • Arquitetura Escalável
 
 ---
 
-### EDUCAÇÃO
+## **📊 Análise de Negócios – Consultoria (2022–2023)**
 
-**Universidade Federal Fluminense – Niterói, RJ** *(Jan 2019 – Dez 2021)*  
-*Graduação em Sistemas de Computação*
+Projeto de análise, visualização e organização de dados de vendas para uma importadora, incluindo:
 
----
+- extração, estruturação e análise estatística dos dados;  
+- criação de dashboards analíticos utilizando Pandas, NumPy e Seaborn;  
+- desenvolvimento de API REST em Spring Boot e interface Angular para manipulação dos dados;  
+- suporte à reestruturação do setor comercial com insights estratégicos de performance.
 
-### HABILIDADES
-
-- **Linguagens**: C#, Java, Python, PHP  
-- **Frameworks**: ADO.NET, Anaconda, Angular, Laravel, Spring Boot  
-- **Bibliotecas**: NumPy, Pandas, Seaborn, SciPy | Hibernate  
-- **Databases**: MySQL, MongoDB, PostgreSQL  
-- **Dev Tools**: IntelliJ, PyCharm, Rider, Visual Studio, Git
+**Tecnologias:** NumPy • Pandas • Seaborn • Angular • Java Spring Boot
 
 ---
 
-### CURSOS E CERTIFICADOS
+# **💼 EXPERIÊNCIA PROFISSIONAL**
 
-- **Santander Bootcamp 2023 - Ciência de Dados com Python** *(out/2023)*  
-- **IoT Fundamentals: Big Data & Analytics** *(nov/2022)*  
-- **Cognizant Cloud Data Engineer** *(mai/2022)*  
-- **Santander Bootcamp Fullstack Developer** *(set/2021)*  
-- **Laravel 6 na Prática - Criando um Marketplace** *(jun/2020)*  
-- **C# COMPLETO Programação Orientada a Objetos + Projetos** *(jul/2019)*
+## **Desenvolvedor / Analista de Dados | Técnico Operacional (Mar 2020 – Presente)**  
+**Casa da Moeda do Brasil — Rio de Janeiro, RJ**
+
+- Desenvolvimento de aplicações em **Java e Python** para análise e tratamento de grandes volumes de dados.  
+- Automatização de rotinas financeiras com **Python + Selenium**, reduzindo processos de **48h para ~2h**.  
+- Criação de pipelines de conciliação financeira (Banco do Brasil, Cielo, Clube de Vendas).  
+- Desenvolvimento de relatórios avançados e análises com Pandas/Seaborn.  
+- Integração de sistemas internos de faturamento, vendas e auditoria.  
+- Participação em iniciativas corporativas de inovação e modernização tecnológica.
+
+---
+
+## **Técnico Operacional (Jan 2011 – Mar 2020)**  
+**Casa da Moeda do Brasil — Rio de Janeiro, RJ**
+
+- Crítica de cédulas, cunhagem de moedas, expedição de produtos.  
+- Apoio a processos industriais e controle de qualidade.
+
+---
+
+## **Web Developer (Jun 2010 – Dez 2010)**  
+**Academia de Artes Visuais — Rio de Janeiro, RJ**
+
+- Desenvolvimento web com PHP e AS3 para portais institucionais.
+
+---
+
+# **🎓 EDUCAÇÃO**
+
+**Pós-Graduação em Data Science — Em andamento (2025–2026)**  
+XP Educação  
+
+**Pós-Graduação em Inteligência Artificial e Machine Learning — Em andamento (2025–2026)**  
+XP Educação  
+
+**Graduação em Sistemas de Computação (2019–2021)**  
+Universidade Federal Fluminense – UFF
+
+---
+
+# **🛠️ HABILIDADES**
+
+**Linguagens:**  
+C#, Java, Python, PHP  
+
+**Frameworks:**  
+Spring Boot, Angular, Laravel, ADO.NET, Anaconda  
+
+**Bibliotecas e Ferramentas de Dados:**  
+NumPy, Pandas, Seaborn, SciPy, Hibernate  
+
+**Bancos de Dados:**  
+MySQL, MongoDB, PostgreSQL  
+
+**Ferramentas de Desenvolvimento:**  
+IntelliJ, PyCharm, Rider, Visual Studio, Git, Docker, Selenium  
+
+---
+
+# **📜 CURSOS E CERTIFICADOS**
+
+- Santander Bootcamp 2023 – Ciência de Dados com Python  
+- IoT Fundamentals: Big Data & Analytics  
+- Cognizant Cloud Data Engineer  
+- Santander Bootcamp Fullstack Developer  
+- Laravel 6 na Prática – Criando um Marketplace  
+- C# COMPLETO – Programação Orientada a Objetos + Projetos  
