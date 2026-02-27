@@ -84,6 +84,19 @@ Universidade Federal Fluminense – UFF
 
 ---
 
+# **📰 PROJETOS ACADÊMICOS**
+
+## 🧪 TCC – Uso de Geolocalização e Wearables para Detecção Precoce da COVID‑19 (UFF – 2021)
+
+**Uso de dados de geolocalização no estudo sobre detecção da COVID‑19 usando wearables**  
+Trabalho de conclusão que integrou **dados biométricos** (HRV/estresse) obtidos via wearable, **geolocalização (Google Takeout)**, **incidência de COVID‑19 por CEP** (SMS‑RJ) e consultas à **API CEP Aberto**, gerando um **índice de exposição georreferenciado** capaz de ser incorporado a modelos de detecção pré‑sintomática.  
+**Principais entregas:**
+- Pipeline completo unindo biometria + geolocalização + incidência diária por CEP.  
+- Criação dos notebooks `covid_exposure.ipynb` e `hrv_monitoring.ipynb` para processamento e análise.  
+- Proposta de um **índice de exposição** para uso em modelos preditivos existentes.  
+**Tecnologias:** Python, Pandas, Jupyter, requests, JSON, REST API.
+
+---
 # **🛠️ HABILIDADES**
 
 **Linguagens:**  
