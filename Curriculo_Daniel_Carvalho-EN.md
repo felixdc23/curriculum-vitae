@@ -84,6 +84,20 @@ Universidade Federal Fluminense – UFF
 
 ---
 
+# **📰 ACADEMIC PROJECTS**
+
+## 🧪 Undergraduate Thesis – Geolocation & Wearables for Early COVID‑19 Detection (UFF – 2021)
+
+**Using geolocation data to study COVID‑19 detection with wearable biometrics**  
+Undergraduate research project integrating **biometric data** (HRV/stress) from wearable devices, **geolocation history** (Google Takeout), **official COVID‑19 incidence per ZIP code**, and the **CEP Aberto REST API** to build a **georeferenced exposure index** suitable for integration into early detection models.  
+**Key contributions:**
+- Full data pipeline combining biometrics + geolocation + local case incidence.  
+- Functional notebooks: `covid_exposure.ipynb` and `hrv_monitoring.ipynb`.  
+- Proposal of an **exposure index** to enhance existing early‑detection ML models.  
+**Tech stack:** Python, Pandas, Jupyter, requests, JSON, REST API.
+
+---
+
 # **🛠️ SKILLS**
 
 **Languages:**  
