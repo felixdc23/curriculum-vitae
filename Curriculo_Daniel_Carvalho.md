@@ -97,6 +97,7 @@ Trabalho de conclusão que integrou **dados biométricos** (HRV/estresse) obtido
 **Tecnologias:** Python, Pandas, Jupyter, requests, JSON, REST API.
 
 ---
+
 # **🛠️ HABILIDADES**
 
 **Linguagens:**  
